@@ -1,4 +1,3 @@
-```python
 import unittest
 from src.aesthetics_customizer import customizeAesthetics
 
@@ -16,4 +15,3 @@ class TestAestheticsCustomizer(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-```

@@ -1,4 +1,3 @@
-```python
 import unittest
 from src.code_generator import generateCode
 
@@ -14,4 +13,3 @@ class TestCodeGenerator(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-```

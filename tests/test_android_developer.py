@@ -1,4 +1,3 @@
-```python
 import unittest
 from src.android_developer import AndroidDeveloper
 
@@ -15,4 +14,3 @@ class TestAndroidDeveloper(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-```

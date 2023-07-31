@@ -1,4 +1,3 @@
-```python
 import unittest
 from src.recommendation_engine import RecommendationEngine
 
@@ -14,4 +13,3 @@ class TestRecommendationEngine(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-```

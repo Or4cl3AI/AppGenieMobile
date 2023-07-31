@@ -1,4 +1,3 @@
-```python
 import unittest
 from src import project_setup
 
@@ -18,4 +17,3 @@ class TestProjectSetup(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-```

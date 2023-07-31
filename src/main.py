@@ -41,11 +41,13 @@ def main():
     print("AppGenie Mobile has successfully assisted you in creating your app!")
 
 def prepareFeature():
-    # Add code to prepare the feature
+    # Implement the logic for preparing the feature
+    # Add code here
     pass
 
 def releaseFeature():
-    # Add code to release the feature
+    # Implement the logic for releasing the feature
+    # Add code here
     pass
 
 if __name__ == "__main__":
